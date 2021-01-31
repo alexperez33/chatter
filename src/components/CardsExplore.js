@@ -16,29 +16,24 @@ function CardsExplore() {
             <CardExploreItem
               src='images/img-2.jpg'
               text='VACATION STORIES'
-              audio=<audio src={'audio/HowAreYou.m4a'} controls="controls" />
             />
             <CardExploreItem
               src='images/img-3.jpg'
               text='MOTIVATION'
-              audio=<audio src={'audio/HowAreYou.m4a'} controls="controls" />
             />
           </ul>
           <ul className='cards__items'>
             <CardExploreItem
               src='images/img-4.jpg'
               text='INTERSTING FACTS'
-              audio=<audio src={'audio/ColeAudio.m4a'} controls="controls" />
             />
             <CardExploreItem
               src='images/img-6.jpg'
               text='COMEDY'
-              audio=<audio src={'audio/ElonMusk.m4a'} controls="controls" />
             />
             <CardExploreItem
               src='images/img-7.jpg'
               text='DISCIPLINE'
-              audio=<audio src={'audio/HowAreYou.m4a'} controls="controls" />
             />
           </ul>
         </div>

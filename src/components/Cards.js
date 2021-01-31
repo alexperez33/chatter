@@ -25,7 +25,7 @@ function Cards() {
               src='images/img-1.jpg'
               text='My Journey as the CEO of WOW Promoter'
               user='tim.richardson'
-              audio=<audio src={'audio/HowAreYou.m4a'} controls="controls" />
+              audio=<audio src={'audio/AlexSpace.m4a'} controls="controls" />
             />
           </ul>
           <ul className='cards__items'>
@@ -45,7 +45,7 @@ function Cards() {
               src='images/img-8.jpg'
               text='My Path to Enlightenment'
               user='justin.bieber'
-              audio=<audio src={'audio/HowAreYou.m4a'} controls="controls" />
+              audio=<audio src={'audio/ColeAudio.m4a'} controls="controls" />
             />
           </ul>
         </div>

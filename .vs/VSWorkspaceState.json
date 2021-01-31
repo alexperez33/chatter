@@ -1,10 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\public",
+    "\\public\\audio",
     "\\src",
     "\\src\\components",
     "\\src\\components\\pages"
   ],
-  "SelectedNode": "\\src\\App.js",
+  "SelectedNode": "\\public\\audio\\ElonMusk.m4a",
   "PreviewInSolutionExplorer": false
 }

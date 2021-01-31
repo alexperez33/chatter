@@ -32,7 +32,8 @@ class Audio extends React.Component {
       .stop()
       .getMp3()
       .then(([buffer, blob]) => {
-       const blobURL = URL.createObjectURL(blob)
+       const blobURL = URL.createObjectURL(blob);
+       console.log(buffer);
        this.setState({ blobURL, isRecording: false });
       }).catch((e) => console.log(e));
   };
